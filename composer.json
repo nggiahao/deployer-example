@@ -1,0 +1,17 @@
+{
+    "name": "nguyengiahao/deployer_example",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nguyễn Gia Hào",
+            "email": "giahao9899@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    },
+    "require-dev": {
+        "deployer/deployer": "v6.8.0",
+        "symfony/var-dumper": "^5.4"
+    }
+}
